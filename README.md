@@ -26,7 +26,7 @@ This repository serves as a showcase for the Common Vulnerabilities and Exposure
 - **Description:** An overview providing context and details about the vulnerability.
   
 ### Lis of CVEs
-<a href="https://github.com/c0d3x27/CVEs" style="text-decoration: none;">Library to all my work</a>.
+<a href="https://github.com/c0d3x27/CVEs/blob/main/README.md" style="text-decoration: none;">Library to all my work</a>.
 
 ### Connect with me
 [<img align="left" alt="c0d3x27.medium.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
