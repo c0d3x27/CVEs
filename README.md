@@ -2,12 +2,12 @@
 
 
 
-<p align="center"> 
+<h3><p align="center"> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/c0d3x27/count.svg" />
-</p>
+</p></h3>
 
-## Welcome to My CVE Collection!
+## My CVE Collection
 
 This a collection of proof-of-concept exploits for various Common Vulnerabilities and Exposures (CVEs) that I have personally discovered. Whether you are passionate about cybersecurity, dedicated to ethical hacking, or simply intrigued by the world of vulnerabilities, you have come to the right place!
 
