@@ -25,7 +25,7 @@ This repository serves as a showcase for the Common Vulnerabilities and Exposure
 - **CVE ID:** The unique identifier assigned to each vulnerability.
 - **Description:** An overview providing context and details about the vulnerability.
   
-### Lis of CVEs
+### List of CVEs
 <a href="https://github.com/c0d3x27/CVEs/blob/main/README.md" style="text-decoration: none;">Library to all my work</a>.
 
 ### Connect with me
